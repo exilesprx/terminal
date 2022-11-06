@@ -11,7 +11,7 @@ rm -rf JetBrainsMono.zip
 
 # Install starship
 sudo pacman -S starship
-echo 'eval "$(starship init bash)"' >> .bashrc
+echo 'eval "$(starship init bash)"' >> ~/.bashrc
 
 
 # Add preset
